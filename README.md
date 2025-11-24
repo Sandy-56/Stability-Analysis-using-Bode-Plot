@@ -52,5 +52,6 @@ Thus the bode plot for the given transfer function was drawn and verified using 
 Gain margin = 12
 Phase Margin = 60
 Gain crossover frequency = 0.907
-Phase crossover frequency = 4.4721
+Phase crossover frequency = 4.4721.
+
 The system is stable.
