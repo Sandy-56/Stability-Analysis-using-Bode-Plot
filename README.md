@@ -14,6 +14,11 @@ The phase margin indicates how close the system is to becoming unstable, while t
 If both margins are positive, the closed-loop system is considered stable.
 
 MATLAB is used to verify the theoretical stability by generating the Bode plot, computing margins, and confirming whether the system satisfies stability criteria.
+<img width="1235" height="1280" alt="image" src="https://github.com/user-attachments/assets/6927db19-b2fb-4e83-bd7c-5908a3074e7b" />
+<img width="993" height="1280" alt="image" src="https://github.com/user-attachments/assets/099ad0d7-ac9c-45d8-b72c-63c387331636" />
+<img width="1120" height="1280" alt="image" src="https://github.com/user-attachments/assets/6aaab5a0-97ec-47dd-9d81-13f28059e553" />
+![Uploading image.png…]()
+
 
 
 
